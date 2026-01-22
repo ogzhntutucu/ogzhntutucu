@@ -53,7 +53,6 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 ---
 
@@ -61,7 +60,7 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
+![GitHub Streak](https://streak-stats.demolab.com?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&t=1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhntutucu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9)
 
