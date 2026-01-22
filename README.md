@@ -16,13 +16,13 @@
 
 Hey there! I'm a **Computer Engineering student** graduating in June 2026, passionate about building impactful Android applications. Currently seeking summer internship opportunities to transition into a **Junior Android Developer** role.
 
-🔭 **Currently working on:** [Kentin Sesi](https://github.com/zibidiSoft) - A civic tech mobile platform empowering citizens to report and track local infrastructure issues
+🔭 **Currently working on:** [Kentin Sesi](https://github.com/ogzhntutucu/kentin-sesi) - A civic tech mobile platform empowering citizens to report and track local infrastructure issues
 
 🌱 **Building with:** Kotlin, MVVM, Firebase, Jetpack Compose, and modern Android architecture
 
 🐧 **Daily driver:** Linux Mint (Terminal enthusiast & productivity focused)
 
-🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft)
+🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (A software organization that develops technology for social benefit)
 
 💡 **Philosophy:** Continuously improving by analyzing open-source code and adapting best practices. Driven by curiosity in problem-solving and eager to share knowledge within the community.
 
@@ -60,12 +60,10 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Oğuzhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogzhntutucu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhntutucu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
 
 </div>
 
@@ -84,16 +82,6 @@ Educational flashcard app for improving language skills
 - **Tech:** Kotlin, Android SDK, SharedPreferences, Gson
 - **Features:** Custom decks, card images, learning progress tracking
 - **UI:** RecyclerView with custom adapters, ViewBinding, edge-to-edge design
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/ogzhntutucu/ogzhntutucu/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
