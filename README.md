@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ogzhntutucu.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ogzhntutucu.github.io)
+[![Website](https://img.shields.io/badge/Portfolio-ogzhntutucu.com-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ogzhntutucu.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ogzhntutucu&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
@@ -88,8 +88,7 @@ Educational flashcard app for improving language skills
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ogzhntutucu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogzhntutucu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ogzhntutucu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ogzhntutucu)
+[![Email](https://img.shields.io/badge/Email-contact@ogzhntutucu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ogzhntutucu.com)
 
 
 *Open for collaboration on Android projects and open-source contributions*
