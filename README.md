@@ -1,12 +1,8 @@
 <div align="center">
   
-# Hi, I'm Oğuzhan Tutucu 👋
+# Hi, I'm Oğuzhan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-[![Website](https://img.shields.io/badge/Portfolio-ogzhntutucu.com-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ogzhntutucu.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ogzhntutucu&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -84,6 +80,16 @@ Educational flashcard app for improving language skills
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ogzhntutucu&color=3b82f6&style=for-the-badge&label=Profile+Views)
+
+[![Website](https://img.shields.io/badge/Website-ogzhntutucu.com-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ogzhntutucu.com)
+
+</div>
+
+---
+
 ## 📫 Reach Me
 
 <div align="center">
@@ -92,7 +98,6 @@ Educational flashcard app for improving language skills
 
 
 *Open for collaboration on Android projects and open-source contributions*
-
 
 </div>
 
