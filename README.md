@@ -1,10 +1,8 @@
-<div align="center">
-  
+
 # Hi, I'm Oğuzhan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&vCenter=true&random=false&width=600&lines=Computer+Engineer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-</div>
 
 ---
 
@@ -26,29 +24,17 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Android & Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=material-design&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,git,gradle,idea&theme=dark" />
+</a>
 
-### Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-00897B?style=for-the-badge&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-2496ED?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Architecture & Libraries
 
-### Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+*   **Architecture:** MVVM
+*   **Android:** Jetpack Compose, Material Design 3, Room
+*   **Concurrency:** Coroutines, Flow
+*   **Dependency Injection:** Hilt
 
 ---
 
@@ -56,9 +42,8 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&t=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhntutucu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogzhntutucu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&include_all_commits=true)](https://github.com/ogzhntutucu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhntutucu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9)](https://github.com/ogzhntutucu)
 
 </div>
 
