@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a **Computer Engineering student** graduating in June 2026, passionate about building impactful Android applications. Currently seeking summer internship opportunities to transition into a **Junior Android Developer** role.
+I'm a **Computer Engineering student** graduating in June 2026, passionate about building impactful Android applications. Currently seeking summer internship opportunities to transition into a **Junior Android Developer** role.
 
 🔭 **Currently working on:** [Kentin Sesi](https://github.com/ogzhntutucu/kentin-sesi) - A civic tech mobile platform empowering citizens to report and track local infrastructure issues
 
@@ -31,10 +31,12 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 
 ### Architecture & Libraries
 
-*   **Architecture:** MVVM
-*   **Android:** Jetpack Compose, Material Design 3, Room
-*   **Concurrency:** Coroutines, Flow
+*   **Architecture & Design:** MVVM, Clean Architecture, Repository Pattern
+*   **Android Framework:** Jetpack Compose, XML, ViewBinding, Android SDK
+*   **Asynchronous:** Kotlin Coroutines, Flow
 *   **Dependency Injection:** Hilt
+*   **Data Persistence:** Room, DataStore, SharedPreferences
+*   **Google Services:** Firebase (Auth, Firestore, Storage), Google Maps SDK
 
 ---
 
@@ -42,8 +44,11 @@ Hey there! I'm a **Computer Engineering student** graduating in June 2026, passi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogzhntutucu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&include_all_commits=true)](https://github.com/ogzhntutucu)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogzhntutucu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9)](https://github.com/ogzhntutucu)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ogzhntutucu&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&t=1)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ogzhntutucu&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -67,29 +72,16 @@ Educational flashcard app for improving language skills
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ogzhntutucu&color=3b82f6&style=for-the-badge&label=Profile+Views)
-
-[![Website](https://img.shields.io/badge/Website-ogzhntutucu.com-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ogzhntutucu.com)
-
-</div>
-
----
-
 ## 📫 Reach Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-contact@ogzhntutucu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ogzhntutucu.com)
-
+[contact@ogzhntutucu.com](mailto:contact@ogzhntutucu.com)
 
 *Open for collaboration on Android projects and open-source contributions*
 
 </div>
 
----
-
 <div align="center">
   
-### "Code with love, build with purpose"
+### "Code with ❤️ love, build with purpose"
 
 </div>
