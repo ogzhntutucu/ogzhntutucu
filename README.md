@@ -16,7 +16,7 @@ I'm a **Computer Engineering student** graduating in June 2026, passionate about
 
 🐧 **Daily driver:** Linux Mint (Terminal enthusiast & productivity focused)
 
-🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (A software organization that develops technology for social benefit)
+🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (a young-spirited software organization)
 
 💡 **Philosophy:** Continuously improving by analyzing open-source code and adapting best practices. Driven by curiosity in problem-solving and eager to share knowledge within the community.
 
