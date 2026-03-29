@@ -14,7 +14,7 @@ I'm a **Computer Engineering student** graduating in June 2026, passionate about
 
 🌱 **Building with:** Kotlin, MVVM, Firebase, Jetpack Compose, and modern Android architecture
 
-🐧 **Daily driver:** Linux Mint (Terminal enthusiast & productivity focused)
+🐧 **Daily driver:** Linux (Terminal enthusiast & productivity focused)
 
 🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (a young-spirited software organization)
 
@@ -56,7 +56,7 @@ I'm a **Computer Engineering student** graduating in June 2026, passionate about
 
 ## 🚀 Featured Projects
 
-### 🏙️ [Kentin Sesi](https://github.com/zibidiSoft)
+### 🏙️ [Kentin Sesi](https://github.com/ogzhntutucu/kentin-sesi)
 A location-based social platform enabling citizens to report and track local infrastructure issues
 - **Tech:** Kotlin, MVVM, Firebase (Firestore, Auth, Storage), Google Maps SDK
 - **Features:** Real-time geospatial querying, marker clustering, threaded comments, upvoting system
