@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** graduating in June 2026, passionate about building impactful Android applications. Currently seeking summer internship opportunities to transition into a **Junior Android Developer** role.
+Highly passionate about Android development; continuously improving by analyzing open-source code and adapting best practices. Driven by curiosity in problem-solving and eager to share knowledge within the team. Committed to delivering high-quality results with a patient and confident mindset.
 
 🔭 **Currently working on:** [Kentin Sesi](https://github.com/ogzhntutucu/kentin-sesi) - A civic tech mobile platform empowering citizens to report and track local infrastructure issues
 
@@ -17,8 +17,6 @@ I'm a **Computer Engineering student** graduating in June 2026, passionate about
 🐧 **Daily driver:** Linux (Terminal enthusiast & productivity focused)
 
 🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (a young-spirited software organization)
-
-💡 **Philosophy:** Continuously improving by analyzing open-source code and adapting best practices. Driven by curiosity in problem-solving and eager to share knowledge within the community.
 
 ---
 
