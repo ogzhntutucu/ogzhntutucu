@@ -16,7 +16,7 @@ Highly passionate about Android development; continuously improving by analyzing
 
 🐧 **Daily driver:** Linux (Terminal enthusiast & productivity focused)
 
-🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (a young-spirited software organization)
+🏢 **Organization:** Founder of [zibidi software](https://github.com/zibidiSoft) (a software studio that only takes its work seriously.)
 
 ---
 
