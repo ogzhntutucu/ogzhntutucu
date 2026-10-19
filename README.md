@@ -1,7 +1,7 @@
 
 # Hi, I'm Oğuzhan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&vCenter=true&random=false&width=600&lines=Computer+Engineer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&vCenter=true&random=false&width=600&lines=Computer+Engineer;Building+Mobile+Apps+With+Kotlin;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 
 ---
